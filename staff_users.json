@@ -1,0 +1,22 @@
+{
+    "staff1": {
+        "password": "123",
+        "name": "Nguyễn Văn A"
+    },
+    "staff2": {
+        "password": "123",
+        "name": "Trần Thị B"
+    },
+    "staff3": {
+        "password": "123",
+        "name": "Lê Văn C"
+    },
+    "staff4": {
+        "password": "123",
+        "name": "Phạm Thị D"
+    },
+    "staff5": {
+        "password": "123",
+        "name": "Hoàng Văn E"
+    }
+}
